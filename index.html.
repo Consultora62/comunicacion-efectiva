@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Comunicación y Liderazgo Expresivo</title>
+  <style>
+    body {font-family: 'Open Sans', Arial, sans-serif; margin:0; padding:0; line-height:1.6; background:#fff; color:#333;}
+    header {background:#002b5c; color:#fff; text-align:center; padding:60px 20px;}
+    header h1 {margin:0; font-size:2.2em;}
+    header p {margin-top:10px; font-size:1.2em;}
+    nav {background:#e67e22; text-align:center; padding:10px;}
+    nav a {color:#fff; margin:0 10px; text-decoration:none; font-weight:bold;}
+    section {padding:40px 20px; max-width:1000px; margin:auto;}
+    h2 {color:#002b5c; margin-bottom:20px;}
+    ul {list-style:none; padding:0;}
+    ul li {margin-bottom:10px; padding-left:25px; position:relative;}
+    ul li::before {content:"✔"; color:#e67e22; position:absolute; left:0;}
+    .highlight {background:#f4f4f4; padding:20px; border-left:5px solid #e67e22; margin:20px 0; font-style:italic;}
+    .paquetes {display:flex; flex-wrap:wrap; gap:20px;}
+    .card {flex:1; min-width:250px; background:#f9f9f9; border:1px solid #ddd; padding:20px; border-radius:8px;}
+    .card h3 {color:#e67e22;}
+    .cta {text-align:center; padding:40px; background:#002b5c; color:#fff;}
+    .cta h2 {margin-bottom:20px;}
+    .cta a {display:inline-block; background:#e67e22; color:#fff; padding:12px 25px; text-decoration:none; border-radius:4px; font-weight:bold;}
+    footer {background:#333; color:#fff; text-align:center; padding:20px;}
+    footer a {color:#e67e22; text-decoration:none;}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Comunicación y Liderazgo Expresivo</h1>
+    <p>Consultoría y formación para empresas y líderes en Ushuaia</p>
+  </header>
+
+  <nav>
+    <a href="#propuesta">Propuesta</a>
+    <a href="#formato">Formato</a>
+    <a href="#objetivos">Objetivos</a>
+    <a href="#contenidos">Contenidos</a>
+    <a href="#diferencial">Diferencial</a>
+    <a href="#paquetes">Paquetes</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section id="propuesta">
+    <h2>Propuesta de valor</h2>
+    <p>Acompaño a empresas y profesionales a comunicar con claridad, autenticidad e impacto, desarrollando competencias de oratoria, presencia escénica y liderazgo expresivo. Integro herramientas de locución profesional, actuación, escritura y coaching ontológico, generando procesos de transformación reales.</p>
+  </section>
+
+  <section id="formato">
+    <h2>Formato</h2>
+    <p>Duración: 8 horas (2 módulos de 4h) o versión intensiva de 4h.<br>
+    Modalidad: Presencial en Ushuaia / híbrida (Zoom).<br>
+    Participantes: equipos de trabajo, mandos medios y altos, emprendedores, organismos públicos.</p>
+  </section>
+
+  <section id="objetivos">
+    <h2>Objetivos</h2>
+    <ul>
+      <li>Mejorar la claridad y persuasión en la comunicación profesional.</li>
+      <li>Desarrollar presencia escénica y seguridad al hablar en público.</li>
+      <li>Usar la voz como herramienta de influencia y liderazgo.</li>
+      <li>Incorporar storytelling breve para transmitir ideas con impacto.</li>
+      <li>Lograr coherencia entre palabra, cuerpo y emoción.</li>
+    </ul>
+  </section>
+
+  <section id="contenidos">
+    <h2>Contenidos</h2>
+    <ul>
+      <li>La voz como instrumento de liderazgo</li>
+      <li>Presencia escénica y lenguaje corporal</li>
+      <li>Comunicar con propósito</li>
+      <li>Storytelling breve y efectivo</li>
+      <li>Exposición final con feedback personalizado</li>
+    </ul>
+  </section>
+
+  <section id="diferencial">
+    <h2>Diferencial</h2>
+    <div class="highlight">“Un equipo que se comunica mejor mejora su productividad, atención al cliente y capacidad de liderazgo.”</div>
+    <p>Combino arte escénico + coaching + comunicación profesional.<br>
+    Metodología práctica, con ejercicios de aplicación inmediata.<br>
+    Adaptado a la realidad local: turismo, servicio al cliente, gestión pública.</p>
+  </section>
+
+  <section id="paquetes">
+    <h2>Paquetes</h2>
+    <div class="paquetes">
+      <div class="card">
+        <h3>Taller inicial</h3>
+        <p>8 horas – grupos reducidos.</p>
+      </div>
+      <div class="card">
+        <h3>Programa corporativo</h3>
+        <p>8 horas + 2 sesiones de coaching individual por líder.</p>
+      </div>
+      <div class="card">
+        <h3>Consultoría continua</h3>
+        <p>Acompañamiento mensual en comunicación y liderazgo.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta">
+    <h2>Reserve su taller ahora y transforme la comunicación de su equipo</h2>
+    <a href="mailto:pulidohoracio62@gmail.com">Solicitar propuesta</a>
+    <a href="https://wa.me/5492901648283" style="margin-left:10px;">WhatsApp</a>
+  </section>
+
+  <footer id="contacto">
+    <p>Horacio Pulido – Locutor profesional / Actor / Coach ontológico / Escritor</p>
+    <p>✉️ <a href="mailto:pulidohoracio62@gmail.com">pulidohoracio62@gmail.com</a> | 📞 2901-648283</p>
+    <p>🌐 <a href="http://www.comunicaciónefectiva.com.ar">www.comunicaciónefectiva.com.ar</a></p>
+  </footer>
+</body>
+</html>
